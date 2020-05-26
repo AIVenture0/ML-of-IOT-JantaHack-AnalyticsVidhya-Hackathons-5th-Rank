@@ -1,7 +1,7 @@
 ---------
-<br>
 # <center><font color='red'>JanataHack: Machine Learning for IoT Hackathons</font></center>
-My approach to the hackathons-( Public Leaderboard : 6 Private Leaderboard:5)
+<br>
+- My approach to the hackathons-( Public Leaderboard : 6 Private Leaderboard:5)
 <br>
 ---------
 
