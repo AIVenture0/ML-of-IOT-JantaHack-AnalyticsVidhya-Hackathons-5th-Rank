@@ -3,7 +3,6 @@
 <br>
 - My approach to the hackathons-( Public Leaderboard : 6 Private Leaderboard:5)
 <br>
----------
 
 <center><img src='https://datahack-prod.s3.ap-south-1.amazonaws.com/__sized__/contest_cover/jantahack_-thumbnail-1200x1200-90.jpg'/></center>
 
