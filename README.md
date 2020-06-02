@@ -1,7 +1,7 @@
 ---------
-# <center><font color='red'>JanataHack: Machine Learning for IoT Hackathons</font></center>
+# <center><font color='red'>[JanataHack: Machine Learning for IoT Hackathons](https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-banking/)</font></center>
 <br>
-- <b>My approach to the hackathons-( Public Leaderboard : 6 Private Leaderboard:5)<b>
+- My approach to the hackathons-( Public Leaderboard : 6 Private Leaderboard:5)
 <br>
 
 <center><img src='https://datahack-prod.s3.ap-south-1.amazonaws.com/__sized__/contest_cover/jantahack_-thumbnail-1200x1200-90.jpg'/></center>
