@@ -1,6 +1,7 @@
 ---------
 # <center><font color='red'>[JanataHack: Machine Learning for IoT Hackathons](https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-banking/)</font></center>
 <br>
+
 - My approach to the hackathons-( Public Leaderboard : 6 Private Leaderboard:5)
 <br>
 
@@ -27,4 +28,6 @@ The government wants to implement a __robust traffic system__ for the city by be
 
 <br>
 - The sensors on each of these junctions were collecting data at different times, hence you will see traffic data from different time periods. To add to the complexity, some of the junctions have provided limited or sparse data requiring thoughtfulness when creating future projections. Depending upon the historical data of 20 months, the government is looking to you to deliver accurate traffic projections for the coming four months. Your algorithm will become the foundation of a larger transformation to make your city smart and intelligent.
+
+## [Check Competition Leaderboard](https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-banking/#LeaderBoard)
 
